@@ -2,6 +2,12 @@
 
 This is a Meme Generator project built with React and TypeScript. It allows users to create custom memes by adding text to images.
 
+# Image Source
+[![Click to see an example image](https://images.pexels.com/photos/10144302/pexels-photo-10144302.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)]
+
+# Result
+[![Click to watch the video](https://drive.google.com/file/d/1gfeu9gJNLGiCjyC_pVcvGNkflUsruLEU/view?usp=sharing)]
+
 ## Features
 
 - Upload an image to use as the base for the meme
